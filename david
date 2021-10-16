@@ -1,0 +1,54 @@
+<header class="masthead">
+  <p class="masthead-intro">David Mejia-Medina</p>
+  <h1 class="masthead-heading">Computer Programmer</h1>
+</header>
+  <section class="introduction-section">
+    <div class="container">
+    <h1>Introduction</h1>
+    <p>Hello! My name is David, and I'm a <strong>programmer</strong>.
+    <p/>
+    
+    <p>I think it's important to help make the internet a <strong>beautiful place</strong>, whether that be through words, photography, or web design.</p>
+    
+    <p>I also think it's important to push yourself and <strong>learn</strong> one new thing every day, no matter what that may be. Did you know a duel between three people is called a <a href="http://www.futilitycloset.com/wp-content/uploads/2010/12/2010-12-16-truel.jpg">truel?</a></p>
+    </div>
+  </section>
+
+  <section class="location-section">
+    <div class="container">
+    <h1>Where I'm From</h1>
+    <p>I call <a href="https://upload.wikimedia.org/wikipedia/commons/2/2a/1855_Colton_Map_of_Wisconsin_-_Geographicus_-_Wisconsin-colton-1855.jpg">Ashburn, Virginia</a> my home, the Old Dominion. My favorite part about <b>Ashburn</b> is that the nature is beautiful! There's a vibrant crowd here that keeps this city bold and <strong>progressive</strong>. 
+    
+ 
+      
+    <p>You can find me going on walks and jogs most mornings, <strong>water bottle</strong> in hand, running along the pathway.</p>
+    </div>
+  </section>
+
+  <section class="questions-section">
+    <div class="container">
+    <h1>More About Me</h1>
+    <h2>What are your favorite hobbies?</h2>
+    <p>I love to explore, spend time with my family, eat pizza, nap, play video games, drink good apple juice</a>, and binge-watching shows.</h2>
+
+    <h2>What's your dream job?</h2>
+    <p> I would love to be a full-time <strong>dog foster</strong> who's given an array of responsibilities in front-end work, and whatever else comes my way.</p>
+
+    <h2>What music have you been listening to lately?</h2>
+    <p>My husband and I recently roadtripped through Arizona listening to the band <a href="http://houndmouth.com/">Houdmouth</a>. I don't know what it is about them, but they make you want to keep driving and driving. Start with the song <a href="https://www.youtube.com/watch?v=Y8wifV5RYr8">"Sedona"</a> first.</p>
+    </div>
+  </section>
+
+  <footer class="content-footer">
+    <div class="footer-container">
+    <p>Say hi to me on these social networks:</p>
+    
+    <a target="_blank" href="https://github.com/dmejiamedina"><i class="fa fa-github-alt fa-inverse fa-2x"></i></a>
+    &nbsp;
+    <a href="https://twitter.com/kedmasterk"><i class="fa fa-twitter fa-inverse fa-2x"></i></a>
+    &nbsp;
+    <a href="https://instagram.com/kedarjoyner/"><i class="fa fa-instagram fa-inverse fa-2x"></i></a>
+    
+    <p> David Mejia-Medina</p>
+</div>
+  </footer>
